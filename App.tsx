@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import ChatWidget from './components/ChatWidget';
-import SetupPanel from './components/SetupPanel';
+import ChatWidget from './Components/ChatWidget';
+import SetupPanel from './Components/SetupPanel';
 import { BusinessConfig } from './types';
 
 // Default configuration for QR Code Stickers business
